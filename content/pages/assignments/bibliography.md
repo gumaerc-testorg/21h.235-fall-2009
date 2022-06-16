@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides citations for books that could be used as a basis
+  for the second essay of the course, with short descriptions for each book. It is
+  neither complete nor comprehensive.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

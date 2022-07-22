@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly readings taken from the
+  required books, listed on the Syllabus, and additional texts cited in the schedule
+  as they appear.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8db26538-8c05-7ff5-6a44-cfdeb328495d
 ---
 
-Readings for each week are taken from the required books, listed on the [Syllabus]({{< baseurl >}}/pages/syllabus), and additional texts cited in the schedule as they appear.
+Readings for each week are taken from the required books, listed on the {{% resource_link 4960623c-082b-b57f-7b94-a19499543ff1 "Syllabus" %}}, and additional texts cited in the schedule as they appear.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section provides citations for books that could be used as a basis
+  for the second essay of the course, with short descriptions for each book. It is
+  neither complete nor comprehensive.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 55d49313-6f76-a29a-8a7e-0ba88781543c
 title: 'Bibliography '
 uid: 51c1b0a3-1d7e-048c-39d6-dfb129be8537

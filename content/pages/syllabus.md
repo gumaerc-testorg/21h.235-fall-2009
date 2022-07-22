@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and books.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4960623c-082b-b57f-7b94-a19499543ff1
 ---
@@ -21,12 +25,12 @@ In less tongue-in-cheek style, this course examines the evolution of New York Ci
 Requirements
 ------------
 
-Your grade is composed of two essays, two possible quizzes, a final exam, and class participation. Further details about the essays are given under [Assignments]({{< baseurl >}}/pages/assignments). The specific guidelines will be discussed in class.
+Your grade is composed of two essays, two possible quizzes, a final exam, and class participation. Further details about the essays are given under {{% resource_link 55d49313-6f76-a29a-8a7e-0ba88781543c "Assignments" %}}. The specific guidelines will be discussed in class.
 
 {{< anchor "books" >}}{{< /anchor >}}Books
 ------------------------------------------
 
-A detailed schedule of readings by class session is given on the [Readings]({{< baseurl >}}/pages/readings) page.
+A detailed schedule of readings by class session is given on the {{% resource_link 8db26538-8c05-7ff5-6a44-cfdeb328495d "Readings" %}} page.
 
 Shorto, Russell. _The Island at the Center of the World: The Epic Story of Dutch Manhattan and the Forgotten Colony that Shaped America_. New York, NY: Vintage, 2005. ISBN: 9781400078677.
 

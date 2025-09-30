@@ -40,7 +40,7 @@ Introduction
 
 {{< tdclose >}}
 {{< tdopen >}}
-Irving, Washington. [_Diedrich Knickerbocker's A History of New-York_](http://www.gutenberg.org/ebooks/13042). Chicago, IL: W. B. Conkey, 1806. Book I, chapter V; Book III, chapter III; Book VI, chapter V; Book VII, chapter XI.
+Irving, Washington. {{% resource_link "42e75e49-40e4-4deb-a226-7648ad084496" "_Diedrich Knickerbocker's A History of New-York_" %}}. Chicago, IL: W. B. Conkey, 1806. Book I, chapter V; Book III, chapter III; Book VI, chapter V; Book VII, chapter XI.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,9 +124,9 @@ _City of Eros_, chapters 2-4.
 
 Asbury, Herbert. _The Gangs of New York: An Informal History of the Underworld_. New York, NY: Vintage, 2008, ISBN: 9780307388988.
 
-Dickens, Charles. [_American Notes: A Journey_](http://www.gutenberg.org/ebooks/675). London, England: Chapman and Hall, 1842, chapter 6.
+Dickens, Charles. {{% resource_link "d3fbf7ce-0fbe-47e5-ad22-6b2ad28c14c7" "_American Notes: A Journey_" %}}. London, England: Chapman and Hall, 1842, chapter 6.
 
-Whitman, Walt. "[Crossing Brooklyn Ferry](http://www.poets.org/viewmedia.php/prmMID/20006)." In _Leaves of Grass_, 1855.
+Whitman, Walt. "{{% resource_link "db2f308f-fdeb-41b7-9e7d-228ffcc92b96" "Crossing Brooklyn Ferry" %}}." In _Leaves of Grass_, 1855.
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ The era of the Civil War
 
 Schecter, Barnet. _The Devil's Own Work: The Civil War Draft Riots and the Fight to Reconstruct America_. New York, NY: Walker & Co., 2007, chapter 4. ISBN: 970802715081.
 
-Commager, Henry Steele, and Milton Cantor, eds. "[Mayor Fernando Wood's Recommendation for the Secession of New York City](https://teachingamericanhistory.org/library/document/mayor-woods-recommendation-of-the-secession-of-new-york-city/)." In _Documents of American History, Vol. 1: to 1898_. 10th ed. Englewood Cliffs, NJ: Prentice-Hall, 1988. ISBN: 9780132172745.
+Commager, Henry Steele, and Milton Cantor, eds. "{{% resource_link "4de46229-f2d7-48ad-a23a-fd4073290c3d" "Mayor Fernando Wood's Recommendation for the Secession of New York City" %}}." In _Documents of American History, Vol. 1: to 1898_. 10th ed. Englewood Cliffs, NJ: Prentice-Hall, 1988. ISBN: 9780132172745.
 
 Kuo Wei Tchen, John. "Quimbo Appo's Fear of Fennians: Chinese-Irish-Anglo Relations in New York City." Bayor, Ronald H., and Timothy J. Meagher, eds. In _The New York Irish_. Baltimore, MD: Johns Hopkins University Press, 1997, chapter 5. ISBN: 9780801857645.
 
@@ -168,9 +168,9 @@ _The Monied Metropolis_, chapters 4-6.
 
 Pratt, John W. "Boss Tweed's Welfare Program." _New York Historical Quarterly_ 45 (1961): 396-411.
 
-Plunkitt, George Washington, and William L. Riordon. "On _The Shame of the Cities_," "Brooklynites: Natural-Born Hayseeds," and "Tammany Leaders Not Bookworms." In [_Plunkitt of Tammany Hall_](http://www.gutenberg.org/ebooks/2810). New York, NY: McClure, Philips, & Co., 1905. Chapters 7, 10, and 11.
+Plunkitt, George Washington, and William L. Riordon. "On _The Shame of the Cities_," "Brooklynites: Natural-Born Hayseeds," and "Tammany Leaders Not Bookworms." In {{% resource_link "c8bc114a-5bf5-4d96-a6f9-7e55eaaa2ec0" "_Plunkitt of Tammany Hall_" %}}. New York, NY: McClure, Philips, & Co., 1905. Chapters 7, 10, and 11.
 
-Steffens, Lincoln. "[New York: Good Government to the Test](http://xroads.virginia.edu/~am482_04/graffeo/shame/nytext.html)." _The Shame of the Cities_. New York, NY: McClure, Philips, & Co., 1904.
+Steffens, Lincoln. "{{% resource_link "9dad9cc9-35e1-4ddb-bc07-efb3a64e88dc" "New York: Good Government to the Test" %}}." _The Shame of the Cities_. New York, NY: McClure, Philips, & Co., 1904.
 
 
 {{< tdclose >}}

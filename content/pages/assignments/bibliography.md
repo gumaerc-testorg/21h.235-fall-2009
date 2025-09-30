@@ -75,7 +75,7 @@ The story of a young man's rise from the streets of Harlem.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Hodgson Burnett, Frances. _[Little Lord Fauntleroy](http://www.gutenberg.org/ebooks/479)_. New York, NY: Scribner's, 1886.
+Hodgson Burnett, Frances. _{{% resource_link "77987dec-3a58-48bc-b7ea-36e01b50592c" "Little Lord Fauntleroy" %}}_. New York, NY: Scribner's, 1886.
 {{< tdclose >}}
 {{< tdopen >}}
 A fictional account of the life of a Brooklyn boy, which contrasts the poverty of New York City with the grandeur of England's aristocracy.
@@ -84,7 +84,7 @@ A fictional account of the life of a Brooklyn boy, which contrasts the poverty o
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cahan, Abraham. _[The Rise of David Levinsky](http://www.gutenberg.org/ebooks/2803)_. New York, NY: Harper & Brothers, 1917.
+Cahan, Abraham. _{{% resource_link "bf171cea-0cb0-44a5-b044-fcd60cbaa81c" "The Rise of David Levinsky" %}}_. New York, NY: Harper & Brothers, 1917.
 {{< tdclose >}}
 {{< tdopen >}}
 The fictionalized story of a Russian Jewish immigrant who finds wealth but loses his religious and moral footing).
